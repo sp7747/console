@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     public class test
     {
 
-        
+        //comment
 
         static void Main(string[] args)
         {
